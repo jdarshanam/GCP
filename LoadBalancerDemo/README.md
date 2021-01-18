@@ -6,7 +6,7 @@ For USA
 
 apt-get update
 
-wget https://raw.githubusercontent.com/dhanajimusale/GCPTrain/master/frontend-uswest.py
+wget https://raw.githubusercontent.com/jdarshanam/GCP/main/LoadBalancerDemo/frontend-uswest.py
 
 sudo python frontend-uswest.py &
 
@@ -20,7 +20,7 @@ For  Asia
 
 apt-get update
 
-wget https://raw.githubusercontent.com/dhanajimusale/GCPTrain/master/frontend-asia.py
+wget https://raw.githubusercontent.com/jdarshanam/GCP/main/LoadBalancerDemo/frontend-asia.py
 
 sudo python frontend-asia.py &
 
@@ -34,7 +34,7 @@ For  Europe
 
 apt-get update
 
-wget https://raw.githubusercontent.com/dhanajimusale/GCPTrain/master/frontend_europe.py
+wget https://raw.githubusercontent.com/jdarshanam/GCP/main/LoadBalancerDemo/frontend_europe.py
 
 sudo python frontend_europe.py &
 
