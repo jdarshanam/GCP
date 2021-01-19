@@ -4,11 +4,11 @@ For USA
 
 #! /bin/bash
 
-sudo apt-get update
+sudo apt-get -y  update
 
-sudo apt-get install wget
+sudo apt-get -y install wget
 
-sudo apt-get install python
+sudo apt-get -y install python
 
 wget https://raw.githubusercontent.com/jdarshanam/GCP/main/LoadBalancerDemo/frontend-uswest.py
 
@@ -22,11 +22,11 @@ For  Asia
 
 #! /bin/bash
 
-sudo apt-get update
+sudo apt-get -y update
 
-sudo apt-get install wget
+sudo apt-get -y install wget
 
-sudo apt-get install python
+sudo apt-get -y install python
 
 wget https://raw.githubusercontent.com/jdarshanam/GCP/main/LoadBalancerDemo/frontend-asia.py
 
@@ -40,11 +40,11 @@ For  Europe
 
 #! /bin/bash
 
-sudo apt-get update
+sudo apt-get -y update
 
-sudo apt-get install wget
+sudo apt-get -y install wget
 
-sudo apt-get install python
+sudo apt-get -y install python
 
 wget https://raw.githubusercontent.com/jdarshanam/GCP/main/LoadBalancerDemo/frontend_europe.py
 
